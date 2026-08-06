@@ -1,0 +1,6 @@
+{
+  "name": "LuminaCare Luxury Clinic",
+  "description": "World-class luxury healthcare clinic website featuring expert doctors, interactive appointment booking, AI health assistant, virtual gallery, and personalized medical treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
